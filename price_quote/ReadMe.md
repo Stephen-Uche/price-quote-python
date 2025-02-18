@@ -15,13 +15,13 @@
 
 ### Windows
 
-- run `python -m venv venv` in the terminal to generate virtual environment
+- run `python3 -m venv venv` in the terminal to generate virtual environment
 - (Bash Terminal) activate the virtual environment `source venv/Script/activate`
 - (Command Prompt) activate the virtual environment `.\venv\Scripts\activate`
 
 ### Linux
 
-- run `python -m venv venv` in the terminal to generate virtual environment
+- run `python3 -m venv venv` in the terminal to generate virtual environment
 - (Bash Terminal) activate the virtual environment `source venv/bin/activate`
 
 - run the command in the terminal to export Flask app name
